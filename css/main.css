@@ -11,13 +11,37 @@
    ========================================================================== */
 
 html {
-    color: #FBEBB3;
-    font-size: 1em;
+    color: #B4AE9C;
+    font-size: 1.2em;
     line-height: 1.4;
     font-family: 'Oswald', sans-serif;
+
+
+
 }
 
-p { margin-top: 100px;
+.savon { margin-top: 500px; 
+    border:1.7em solid #FFF8DE;
+    width: 20em ; margin:100px auto;
+    border-radius: 2.3em ;
+    padding :5em;
+    background-color: #FFF8DC; 
+    box-shadow: inset 0px 0px 27px 34px rgba(0,0,0,0.10);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     }
 
