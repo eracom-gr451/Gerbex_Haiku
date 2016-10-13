@@ -1,9 +1,1 @@
-# Firestarter
-
-Ceci est un framework HTML et CSS simple basé sur le HTML5 Boilerplate, créé dans le cadre de l'enseignement multimédia de l'Eracom.
-
-* HTML5 Boilerplate: [https://html5boilerplate.com/](https://html5boilerplate.com/)
-
-## Licence
-
-Le code est disponible sous la [licence MIT](LICENSE.txt).
+# J'ai absolument cherché une citation concernant le savon. Il n'y avait pas un grand choix sur internet. Le savon en bloc me passionne. le mot SOAP en anglais également je n'ai aucune explication a cela mais ça dur depuis une année. J'ai donc voulu essayé de rester dans un code couleur qui est associé au savon bien basique. Ma citation est donc inscrite sur un savon très très stylisé. Je n'ai pas voulu ajouté de photos ou d'autres éléments car cela aurait été de trop et mon savon n'aurait pas été au centre des regards. J'ai choisi une typographie simple et condensée car c'est souvent comme cela qu'elle apparait sur ces fameux blocs.
